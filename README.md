@@ -1,3 +1,5 @@
+![Design preview for the QR code component coding challenge](./preview.jpg)
+
 QR Code Component
 
 Overview
