@@ -2,7 +2,7 @@ body {
   background-color: #d5e1ef;
   font-family: "Poppins", serif;
   font-weight: 400;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .container {
